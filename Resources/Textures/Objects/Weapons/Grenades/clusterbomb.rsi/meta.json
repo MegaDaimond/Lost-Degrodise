@@ -17,13 +17,7 @@
       "name": "base-2"
     },
     {
-      "name": "primed",
-      "delays": [
-        [
-          0.1,
-          0.1
-        ]
-      ]
+      "name": "primed"
     }
   ]
 }
